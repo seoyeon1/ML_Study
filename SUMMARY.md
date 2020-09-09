@@ -12,5 +12,5 @@
 
 ## Artificial Intelligence
 
-* [Untitled](artificial-intelligence/untitled.md)
+* [issues-scrap](artificial-intelligence/issues.md)
 
