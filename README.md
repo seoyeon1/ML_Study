@@ -7,6 +7,7 @@ description: Hello? I'm writing to organize what i have learned about ML & AI.
 > ### I'm studying with...
 
 * a lecture on **coursera** [https://www.coursera.org/learn/machine-learning](https://www.coursera.org/learn/machine-learning)
+* [https://hunkim.github.io/ml/](https://hunkim.github.io/ml/)
 * my books on Math, ML, AI and IT issues
 
 분명 작년에 학교다니면서 배웠는데 휴학하고 다른 공부를 하다보니 지금은 어느 정도 용어들만 기억나고 구체적인 내용은 잊고 살았다. 내년에는 캡스톤도 해야하고 인턴이나 대학원도 준비해야하기에 이번에 블로그를 작성하면서 다시 처음부터 공부하려 한다.
