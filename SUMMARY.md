@@ -17,3 +17,7 @@
 
 * [issues-scrap](artificial-intelligence/issues.md)
 
+## JavaScript
+
+* [Javascript](javascript/javascript.md)
+
