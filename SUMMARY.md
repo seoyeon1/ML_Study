@@ -19,5 +19,6 @@
 
 ## JavaScript
 
-* [Javascript](javascript/javascript.md)
+* [Javascript](javascript/javascript/README.md)
+  * [시작하기 앞서...](javascript/javascript/....md)
 
