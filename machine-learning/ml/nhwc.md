@@ -52,7 +52,7 @@ HWCN 여기의 채널 수\(c\) =  nhwc의 채널수\(c\)
 
 
 {% hint style="info" %}
-**실습 결**
+**실습 결과** 
 
 7 layers & epoch : 3
 
