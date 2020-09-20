@@ -15,6 +15,7 @@
 
 ## Artificial Intelligence
 
+* [이미지 분석](artificial-intelligence/undefined.md)
 * [issues-scrap](artificial-intelligence/issues.md)
 
 ## JavaScript
