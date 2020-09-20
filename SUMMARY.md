@@ -12,10 +12,11 @@
   * [MNIST](machine-learning/ml/mnist.md)
   * [NHWC](machine-learning/ml/nhwc.md)
   * [내일은 비가 올까?](machine-learning/ml/undefined.md)
+* [이미지 분석](machine-learning/undefined/README.md)
+  * [이미지 전처리](machine-learning/undefined/img-processing.md)
 
 ## Artificial Intelligence
 
-* [이미지 분석](artificial-intelligence/undefined.md)
 * [issues-scrap](artificial-intelligence/issues.md)
 
 ## JavaScript
