@@ -26,3 +26,9 @@
 * [Javascript](javascript/javascript/README.md)
   * [시작하기 앞서...](javascript/javascript/....md)
 
+## data-analysis
+
+* [Pandas](data-analysis/pandas.md)
+* [Stock data](data-analysis/stock-data/README.md)
+  * [candle chart](data-analysis/stock-data/candle-chart.md)
+
