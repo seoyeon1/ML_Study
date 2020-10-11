@@ -31,4 +31,6 @@
 * [Pandas](data-analysis/pandas.md)
 * [Stock data](data-analysis/stock-data/README.md)
   * [candle chart](data-analysis/stock-data/candle-chart.md)
+  * [input feature](data-analysis/stock-data/input-feature.md)
+  * [dataset](data-analysis/stock-data/dataset.md)
 
